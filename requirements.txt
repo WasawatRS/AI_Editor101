@@ -1,0 +1,6 @@
+google-genai>=1.0.0
+elevenlabs>=1.50.0
+pythainlp>=5.0.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+streamlit>=1.57.0
